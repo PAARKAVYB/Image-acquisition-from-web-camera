@@ -106,16 +106,16 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ### i) Write the frame as JPG image
-![output](op1.png)
+![output](op1.jpeg)
 
 ### ii) Display the video
-![output](op2.png)
+![output](op2.jpeg)
 
 ### iii) Display the video by resizing the window
-![output](op3.png)
+![output](op3.jpeg)
 
 ### iv) Rotate and display the video
-![output](op4.png)
+![output](op4.jpeg)
 
 ## RESULT:
 Thus the image is accessed from webcamera and displayed using openCV.
